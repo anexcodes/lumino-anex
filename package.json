@@ -29,6 +29,11 @@
         "label": "Lumino Anex",
         "uiTheme": "vs-dark",
         "path": "./themes/Lumino Anex-color-theme.json"
+      },
+      {
+        "label": "Lumino Anex Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lumino Anex Dark-color-theme.json"
       }
     ]
   }
