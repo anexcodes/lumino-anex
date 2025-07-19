@@ -4,10 +4,10 @@
   "displayName": "Lumino Anex",
   "description": "Lumino Anex is an exceptional dark theme for Visual Studio Code, designed and crafted by Anex, a talented developer with a passion for creating stunning code aesthetics. With a perfect blend of vibrant colors and sleek, modern elements, Lumino Anex takes code editing to a whole new level.",
   "version": "1.0.0",
-  "publisher": "anexCodes",
+  "publisher": "anexlab",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anexcodes/lumino-anex"
+    "url": "https://github.com/anexlab/lumino-anex"
   },
   "keywords": [
     "theme",
@@ -15,7 +15,7 @@
     "lumino anex",
     "theme by anex",
     "lumino anex dark",
-    "theme by anexcodes"
+    "theme by anexlab"
   ],
   "engines": {
     "vscode": "^1.81.0"
