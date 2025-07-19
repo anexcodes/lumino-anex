@@ -1,20 +1,19 @@
 {
   "icon": "icon.png",
-  "name": "lumino-anex",
-  "displayName": "Lumino Anex",
-  "description": "Lumino Anex is an exceptional dark theme for Visual Studio Code, designed and crafted by Anex, a talented developer with a passion for creating stunning code aesthetics. With a perfect blend of vibrant colors and sleek, modern elements, Lumino Anex takes code editing to a whole new level.",
+  "name": "noirex",
+  "displayName": "Noirex",
+  "description": "Noirex is an exceptional dark theme for Visual Studio Code, designed and crafted by anexlab. With a perfect blend of vibrant colors and sleek, modern elements, Noirex takes code editing to a whole new level.",
   "version": "1.0.0",
   "publisher": "anexlab",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anexlab/lumino-anex"
+    "url": "https://github.com/anexlab/noirex"
   },
   "keywords": [
     "theme",
     "dark theme",
-    "lumino anex",
-    "theme by anex",
-    "lumino anex dark",
+    "noirex",
+    "noirex dark",
     "theme by anexlab"
   ],
   "engines": {
@@ -26,14 +25,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Lumino Anex",
+        "label": "Noirex",
         "uiTheme": "vs-dark",
-        "path": "./themes/Lumino Anex-color-theme.json"
+        "path": "./themes/Noirex-color-theme.json"
       },
       {
-        "label": "Lumino Anex Dark",
+        "label": "Noirex Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Lumino Anex Dark-color-theme.json"
+        "path": "./themes/Noirex Dark-color-theme.json"
       }
     ]
   }
