@@ -1,9 +1,9 @@
 {
-  "icon": "icon.png",
+  "icon": "./assets/icon.png",
   "name": "noirex",
   "displayName": "Noirex",
   "description": "Noirex is an exceptional dark theme for Visual Studio Code, designed and crafted by anexlab. With a perfect blend of vibrant colors and sleek, modern elements, Noirex takes code editing to a whole new level.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "anexlab",
   "repository": {
     "type": "git",
